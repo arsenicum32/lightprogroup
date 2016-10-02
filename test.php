@@ -9,7 +9,7 @@
   $fields = array(
           'access_token'=>"bbc4fbae42be770ed355e96b2564f6d397a4c0539d38c313251aaf4639b4c9d3bf82ec5090f12f62137ea",
           'user_id'=>"83250233",
-          'message'=>"имя: " . $_GET["name"] . " тел: " . $_GET["phone"] . " email: " . $_GET["email"] . " начало: " . $_GET["start"] . " конец: " . $_GET["end"] . " у/п: " . $_GET["street"] . " допинфо: " . $_GET["desc"]
+          'message'=>"имя: " . $_GET["name"] . " тел: " . $_GET["phone"] . " email: " . $_GET["email"] #. " начало: " . $_GET["start"] . " конец: " . $_GET["end"] . " у/п: " . $_GET["street"] . " допинфо: " . $_GET["desc"]
           #'PARAM2'=>$_POST['PARAM2']
   );
 
